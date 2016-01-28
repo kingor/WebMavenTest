@@ -1,0 +1,6 @@
+com\igor\dao\impl\StudentDaoImpl.class
+com\igor\controller\StudentController.class
+com\igor\dao\StudentDao.class
+com\igor\service\impl\StudentServiceImpl.class
+com\igor\service\StudentService.class
+com\igor\model\Student.class
