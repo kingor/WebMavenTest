@@ -38,7 +38,7 @@
 	<br>
 	<table border="1">
 		<th>ID</th>
-		<th>First Name</th>
+		<th>First Name1</th>
 		<th>Last Name</th>
 		<th>Year Level</th>
 		<c:forEach items="${studentList}" var="student">
